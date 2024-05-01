@@ -1,0 +1,27 @@
+* {
+    font-family:'Courier New', Courier, monospace;
+    background-color:cornsilk;
+}
+
+.card {
+    width: 600px;
+    /* background-color: bisque; */
+    margin: 16px auto;
+    padding: 8px;
+}
+
+.title {
+    text-align: center;
+}
+
+.image {
+    display: block;
+    width: 640px;
+    height: auto;
+    margin: 8px auto;
+}
+
+.para {
+    width: 640px;
+    margin: 8px auto;
+}
